@@ -135,6 +135,8 @@
           "items": [
             "devices[].id",
             "devices[].name",
+            "devices[].model",
+            "devices[].serialNumber",
             "devices[].filterChangeLevel",
             "devices[].led",
             "devices[].airQualitySensor",
